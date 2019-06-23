@@ -24,7 +24,6 @@ $(document).ready(function () {
   $(".shopping-item-delete").click(function (event) {
     $(this).closest("li").remove()
   });
-
 });
 
 
